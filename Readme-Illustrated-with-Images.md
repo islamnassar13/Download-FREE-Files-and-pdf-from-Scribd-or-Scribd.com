@@ -1,4 +1,4 @@
-> 📄 **Viewing Illustrated Version** | **[Switch to Text-Only Version ➔](Readme-Text-Only.md)**
+> 📄 **Viewing Illustrated Version** | **[Switch to Text-Only Version ➔](README.md)**
 # Download FREE Files from Scribd
 
 You can download PDFs from Scribd without a subscription or uploading files by using third-party document downloader websites or specialized tool platforms. This repository provides a simple guide covering two effective methods to access and save Scribd documents locally for offline viewing[cite: 1, 2].
